@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Carlos
+ * @author Carlos Ed
  */
 public class ContaTerminal {
    private int numeroConta;
