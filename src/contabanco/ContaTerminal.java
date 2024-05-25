@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class ContaTerminal {
    private int numeroConta;
-   private int agencia;
+   private String agencia;
    private String nomeCliente;
    private double Saldo;
     /**
@@ -24,7 +24,7 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o seu Nome:");
         conta.setNomeCliente(scanner.nextLine());
         System.out.println("Por favor, digite o numero da Agência:");
-        conta.setAgencia(scanner.nextInt());
+        conta.setAgencia(scanner.nextLine());
         System.out.println("Por favor, digite o numero da Conta:");
         conta.setNumeroConta(scanner.nextInt());
         System.out.println("Por favor, digite o seu Saldo:");
@@ -46,11 +46,11 @@ public class ContaTerminal {
         this.numeroConta = numeroConta;
     }
 
-    public int getAgencia() {
+    public String getAgencia() {
         return agencia;
     }
 
-    public void setAgencia(int agencia) {
+    public void setAgencia(String agencia) {
         this.agencia = agencia;
     }
 
