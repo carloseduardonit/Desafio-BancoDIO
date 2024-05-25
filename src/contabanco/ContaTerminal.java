@@ -29,6 +29,7 @@ public class ContaTerminal {
         conta.setNumeroConta(scanner.nextInt());
         System.out.println("Por favor, digite o seu Saldo:");
         conta.setSaldo(scanner.nextDouble());
+        scanner.close();
         // TODO code application logic here
         System.out.println("\nOlá "+conta.getNomeCliente()+
                 ", obrigado por criar uma conta em "
