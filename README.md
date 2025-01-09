@@ -29,6 +29,11 @@ Depois de todas as informações terem sido inseridas, o sistema deverá exibir 
 
 Os campos em [ ] devem ser alterados pelas informações que foram inseridas pelos usuários.
 
+## Funcionalidades
+- Criar e gerenciar contas.
+- Realizar depósitos, saques e transferências.
+- Exibir informações detalhadas das contas.
+  
 ---
 
 <details>
