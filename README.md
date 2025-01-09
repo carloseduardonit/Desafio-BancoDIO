@@ -9,11 +9,13 @@ Crie o projeto ContaBancoque receberá dados via terminal contendo as caracterí
 Dentro do projeto, crie uma aula ContaTerminal.javapara realizar toda a programação do nosso programa.
 Revisão sobre regras de declaração de variáveis
 
-||Atributo|| Tipo||Exemplo||
+|Atributo| Tipo|Exemplo|
+|:----|:----|:-----|
 |Número|Inteiro|1021|
 |Agência|Texto|6067-8|
 |Nome Cliente|Texto|MÁRIO ANDRADE|
 |Saldo|Decimal|237,48|
+
 Revisão sobre terminal, argumentos principais e classe Scanner
 Permita que os dados sejam inseridos via terminal sendo que o usuário receberá uma mensagem de quais informações serão solicitadas, por exemplo:
 Programa: "Por favor, digite o número da Agência !"
