@@ -1,8 +1,9 @@
 # Desafio-BancoDIO
 
-Autores
-Gleyson Sampaio
+Autor: Gleyson Sampaio
+
 Sintaxe - Desafio
+
 Vamos praticar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
 Crie o projeto ContaBancoque receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
@@ -20,12 +21,13 @@ Revisão sobre terminal, argumentos principais e classe Scanner
 Permita que os dados sejam inseridos via terminal sendo que o usuário receberá uma mensagem de quais informações serão solicitadas, por exemplo:
 
 `Programa: "Por favor, digite o número da Agência !"`
+
 `Usuário: 1021 (depois ENTER para o próximo campo)`
 
 Revise sobre concatenação e classe String com método concat
 Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
 
-"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".
+`"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".` 
 
 Os campos em [ ] devem ser alterados pelas informações que foram inseridas pelos usuários.
 
