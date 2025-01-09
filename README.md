@@ -19,8 +19,8 @@ Revisão sobre regras de declaração de variáveis
 Revisão sobre terminal, argumentos principais e classe Scanner
 Permita que os dados sejam inseridos via terminal sendo que o usuário receberá uma mensagem de quais informações serão solicitadas, por exemplo:
 
-Programa: "Por favor, digite o número da Agência !"
-Usuário: 1021 (depois ENTER para o próximo campo)
+`Programa: "Por favor, digite o número da Agência !"`
+`Usuário: 1021 (depois ENTER para o próximo campo)`
 
 Revise sobre concatenação e classe String com método concat
 Depois de todas as informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
